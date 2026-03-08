@@ -40,6 +40,7 @@
           name = "foo";
           src = ./.;
           gitSubmodules = true;
+          # copySources = [ "rust-base64" ]; # XXX: How to use properly as a workaround?
         };
 
         # For `nix develop` (optional, can be skipped):
