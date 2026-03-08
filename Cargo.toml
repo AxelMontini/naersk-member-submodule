@@ -1,0 +1,8 @@
+[workspace]
+members = [
+  # Regular member
+  "foo",
+  # Submodule
+  "rust-base64",
+]
+resolver = "2"

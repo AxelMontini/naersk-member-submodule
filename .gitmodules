@@ -1,0 +1,3 @@
+[submodule "rust-base64"]
+	path = rust-base64
+	url = git@github.com:marshallpierce/rust-base64.git
